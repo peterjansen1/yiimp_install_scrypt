@@ -191,6 +191,8 @@ default         0;
     sudo ufw allow 3433/tcp
     sudo ufw allow 3633/tcp
     sudo ufw allow 3739/tcp
+    sudo ufw allow 3033/tcp
+    sudo ufw allow 4330/tcp
     sudo ufw --force enable    
     fi
     
